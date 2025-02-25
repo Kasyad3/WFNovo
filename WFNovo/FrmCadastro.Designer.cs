@@ -197,6 +197,7 @@
             btnVerCadastro.TabIndex = 18;
             btnVerCadastro.Text = "Ver Cadastros";
             btnVerCadastro.UseVisualStyleBackColor = true;
+            btnVerCadastro.Click += btnVerCadastro_Click;
             // 
             // FrmCadastro
             // 
